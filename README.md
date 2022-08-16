@@ -4,8 +4,7 @@ Text-based C++ application that adds two integers, two doubles, and constantenat
 
 # Project Objectives 
 
-### Create an application that calculates whether a year inputed by the user is a leap year or not.
-#### This application was a fun small project to bring me back to the basics. I'm practicing the coding basics to build a better foundation.
+### This application was a fun small project to bring me back to the basics. I'm practicing the coding basics to build a better foundation.
 
 * Take input integer from the user 
 * Take input double from the user
