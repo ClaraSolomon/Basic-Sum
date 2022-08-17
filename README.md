@@ -10,7 +10,7 @@ Text-based C++ application that adds two integers, two doubles, and constantenat
 * Take input double from the user
 * Take input string from the user
 * Find the sum of two integers and two doubles
-* Constantenate two strings
+* Concatenate two strings
 * Display the sums to the user
 
 # Technologies 
