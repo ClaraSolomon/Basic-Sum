@@ -1,6 +1,6 @@
 # Basic-Sum
 
-Text-based C++ application that adds two integers, two doubles, and constantenates two strings together.
+Text-based C++ application that adds two integers, two doubles, and concatenate two strings together.
 
 # Project Objectives 
 
